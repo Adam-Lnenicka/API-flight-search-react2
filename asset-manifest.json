@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/API-flight-search-react2/static/css/main.a043e350.chunk.css",
+    "main.js": "/API-flight-search-react2/static/js/main.0c81ba15.chunk.js",
+    "main.js.map": "/API-flight-search-react2/static/js/main.0c81ba15.chunk.js.map",
+    "runtime-main.js": "/API-flight-search-react2/static/js/runtime-main.139ed074.js",
+    "runtime-main.js.map": "/API-flight-search-react2/static/js/runtime-main.139ed074.js.map",
+    "static/js/2.772600a2.chunk.js": "/API-flight-search-react2/static/js/2.772600a2.chunk.js",
+    "static/js/2.772600a2.chunk.js.map": "/API-flight-search-react2/static/js/2.772600a2.chunk.js.map",
+    "static/js/3.ceb553a1.chunk.js": "/API-flight-search-react2/static/js/3.ceb553a1.chunk.js",
+    "static/js/3.ceb553a1.chunk.js.map": "/API-flight-search-react2/static/js/3.ceb553a1.chunk.js.map",
+    "index.html": "/API-flight-search-react2/index.html",
+    "static/css/main.a043e350.chunk.css.map": "/API-flight-search-react2/static/css/main.a043e350.chunk.css.map",
+    "static/js/2.772600a2.chunk.js.LICENSE.txt": "/API-flight-search-react2/static/js/2.772600a2.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/API-flight-search-react2/static/media/image.7ed2fc53.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.139ed074.js",
+    "static/js/2.772600a2.chunk.js",
+    "static/css/main.a043e350.chunk.css",
+    "static/js/main.0c81ba15.chunk.js"
+  ]
+}
